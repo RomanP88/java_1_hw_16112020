@@ -29,7 +29,6 @@ public class Main {
         System.out.println(z);
 
 
-        System.out.println();                                                                                  // 3 Задание
         System.out.println(calculate(1.1f, 2.5f, 58.4f, 7.6f));
 
 
